@@ -7,8 +7,10 @@ public class Java_Project {
 		System.out.println("Selenium");
 		System.out.println("python");
 		System.out.println("sql");
+		System.out.println("DataBase");
+		System.out.println("oracle Sql");
 		
-		
+
 	}
 	
 
